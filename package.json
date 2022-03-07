@@ -1,5 +1,5 @@
 {
-    "name": "code1644",
+    "name": "mongodb1221",
     "version": "1.0.0",
     "description": "",
     "main": "app.js",
@@ -13,8 +13,5 @@
         "express": "^4.17.3",
         "hbs": "^4.2.0",
         "mongodb": "^4.4.1"
-    },
-    "devDependencies": {
-        "nodemo": "^1.0.0"
     }
 }
